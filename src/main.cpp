@@ -1,5 +1,5 @@
 #pragma region VEXcode Generated Robot Configuration
-// Make sure all required headers are included.
+// Make sure all required headers are included. 
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
@@ -10,7 +10,7 @@
 #include "v5_vcs.h"
 
 
-// Brain should be defined by default
+// Brain should be defined by default. #test change
 brain Brain;
 competition Competition;
 
